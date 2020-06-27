@@ -41,7 +41,7 @@ fun main()
             }
         }
 
-    }while(input != 3)
+    }while(input.equals(3).not())
 
     println("Exit...")
     TimeUnit.SECONDS.sleep(1L);
