@@ -127,5 +127,5 @@ fun makeRecipe()
 
 fun viewRecipe()
 {
-    println("You are looking the recipes...")
+    println("You are looking at the recipes...")
 }
