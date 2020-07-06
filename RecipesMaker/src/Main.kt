@@ -1,7 +1,7 @@
+import model.IngredientType
 import java.util.concurrent.TimeUnit
 import java.lang.NumberFormatException
 
-enum class Ingredients {WATER, MILK, MEAT, VEGETABLES, FRUITS, CEREAL, EGGS, OIL};
 enum class GameScene{GAME_MENU, MAKE_RECIPE, VIEW_RECIPES, EXIT}
 
 fun main() {
@@ -118,7 +118,7 @@ fun makeRecipe()
         Make a recipe
         Select by category the ingredient you are looking for
     """.trimIndent())
-    for (ingredient in Ingredients.values())
+    for (ingredient in IngredientType.values())
     {
         println("${ingredient.ordinal + 1}. ${ingredient.name} ")
     }

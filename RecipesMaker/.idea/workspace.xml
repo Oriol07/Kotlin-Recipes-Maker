@@ -29,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -91,21 +92,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="271" key="GridCell.Tab.0.bottom" timestamp="1593466112417">
+    <state width="1493" height="271" key="GridCell.Tab.0.bottom" timestamp="1594057827627">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="271" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593466112417" />
-    <state width="1493" height="271" key="GridCell.Tab.0.center" timestamp="1593466112416">
+    <state width="1493" height="271" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594057827627" />
+    <state width="1493" height="271" key="GridCell.Tab.0.center" timestamp="1594057827626">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="271" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593466112416" />
-    <state width="1493" height="271" key="GridCell.Tab.0.left" timestamp="1593466112416">
+    <state width="1493" height="271" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594057827626" />
+    <state width="1493" height="271" key="GridCell.Tab.0.left" timestamp="1594057827626">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="271" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593466112416" />
-    <state width="1493" height="271" key="GridCell.Tab.0.right" timestamp="1593466112417">
+    <state width="1493" height="271" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594057827626" />
+    <state width="1493" height="271" key="GridCell.Tab.0.right" timestamp="1594057827626">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="271" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593466112417" />
+    <state width="1493" height="271" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594057827626" />
   </component>
 </project>
